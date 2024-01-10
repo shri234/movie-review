@@ -4663,6 +4663,26 @@ ul {
   font-weight: bold;
   text-transform: uppercase;
 }
+.title-hd h1 {
+  font-family: 'Dosis', sans-serif;
+  font-size: 28px;
+  color: #ffffff;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.title-h{
+  position: absolute;
+  top: 10;
+  text-align: right;
+}
+.title-h h2 {
+  font-family: 'Dosis', sans-serif;
+  font-size: 24px;
+  color: #ffffff;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
 @media (max-width: 767px) {
   .title-hd h2 {
     margin: 0;
@@ -5581,14 +5601,14 @@ ul {
   margin-bottom: 30px;
   padding-right: 15px;
 }
-.latestnew .morenew .more-items .more-it h6 a {
+.latestnew .morenew .more-items .more-it h3 a {
   font-family: 'Dosis', sans-serif;
-  font-size: 14px;
+  font-size: 20px;
   color: #4280bf;
   font-weight: bold;
   text-transform: none;
 }
-.latestnew .morenew .more-items .more-it h6 a:hover {
+.latestnew .morenew .more-items .more-it h3 a:hover {
   color: #dcf836;
 }
 .latestnew .tabs {
